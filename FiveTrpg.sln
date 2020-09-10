@@ -15,9 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameRule.API", "src\Service
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GameRule", "GameRule", "{8AADE0A8-F11D-45FC-A66B-C04544AFBCC2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameRule.UnitTests", "src\Services\GameRule\GameRule.API\GameRule.UnitTests\GameRule.UnitTests.csproj", "{9D995C32-CE49-481C-896C-63586B3B202E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameRule.UnitTests", "src\Services\GameRule\GameRule.UnitTests\GameRule.UnitTests.csproj", "{9D995C32-CE49-481C-896C-63586B3B202E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSPA", "src\Web\WebSPA\WebSPA\WebSPA.csproj", "{2B76EFF2-69D9-4695-87CA-ADBA82E52743}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSPA", "src\Web\WebSPA\WebSPA.csproj", "{2B76EFF2-69D9-4695-87CA-ADBA82E52743}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
